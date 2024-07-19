@@ -58,8 +58,8 @@ export default function Home() {
           <h1 className='text-slate-700 font-bold text-3xl lg:text-6xl'>Find Your Next {' '}<span className='text-slate-500'>Perfact Place</span>
           <br /> With ease
           </h1>
-          <div className='text-gray-400 text-xs sm:text-sm'>
-            website description
+          <div className='text-gray-700 text-xs sm:text-sm'>
+          "Welcome to <span className='text-slate-800'>The Realtor</span>, your one-stop destination for buying, selling, and renting properties. Discover a wide range of homes and commercial spaces tailored to your needs. Experience seamless transactions and expert guidance every step of the way.
           </div>
           <Link to={'/search'} className='text-xs sm:text-sm text-blue-800 font-bold hover:underline'>
             Lets get Started now
